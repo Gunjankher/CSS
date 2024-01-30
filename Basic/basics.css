@@ -1,0 +1,11 @@
+p {
+    color: brown;
+    background-color: aqua;
+    text-align: center;
+    background-image: conic-gradient(red, yellow, green); 
+}
+
+.hello{
+    border: 22px solid red;
+ text-align: center;
+}
