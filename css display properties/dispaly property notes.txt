@@ -1,0 +1,5 @@
+INLINE PROPERTIES : It means they dont hold or take the whole line of the display for themselves unlike the box properties
+
+DISPLAY INLINE :It isv usesd for the to convert box elemement to the inline element
+
+INLINE BLOCK : It is used for the give the upperside of the box a margin,ususlly dont possible with the normal display inline properties 
