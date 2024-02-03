@@ -1,0 +1,3 @@
+lIST STYLE :use to style the lists, you can set it to none
+LIST STYLE POSITION: normally you use the background color in the li the only text will get the background color not the list style itself so thats why it used it to give list style also the background color
+LIST STYLE IMAGE : to add image insted of the lists    
