@@ -1,0 +1,7 @@
+OVERFLOW : Ii is used for the preventation for text overflow .like scroll 
+white space :nowrap . > it is used for the only give the horizontal lines to the scroll bar
+text-overflow: ellipsis; : give the .... to the text overflow
+
+overflow : x|y ; it is used for the used for overflow to move in x direction
+overflow : x ,y : it can  also be used this way 
+

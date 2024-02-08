@@ -1,0 +1,22 @@
+BORDER BOX:- if size of box is 200 px and border is not applied so the total box value will add the additional size of padding margin and border, if border box is applied total box valuewill be the 200px(including border and padding)
+
+MARGIN COLLEPSE:- if we have two box that have same margin(let say 26+25) so the result margin should be 51 but the margin result will be the 26, this concept is called margin collapse if two box have margin overlapsed, the greater  margin will be counted and lesser will be neglected.(if not understand watch codewithharry vid 18) 
+
+FONT FAMILY :- it is used to change the font of the text you can use the google fonts also for this and it is recomanded to use one or two common fonts to use in font family to avoid complications
+
+FONT STYLE :- to style your font like ,italic etc (not bold) ,
+FONT WEIGHT:- to make your font bold 
+TEXT DECORATION : to undereline (text-decoration: underline dotted;) 
+LINE HEIGHT :- TO give the space beetwen two lines can set to (1,2,3,4,5,6)
+LETTER SPECEING :-To give a space between the letters 
+TEXT TRANSFORM :- to make uppercase or lowercase text 
+TEXT DECORATION :- To decoreate the text 
+(text-decoration: underline;
+ text-decoration-color: rgb(88, 178, 178);
+text-decoration-style: wavy;)
+
+TEXT INDENT: make the text move 
+TERXT OVEWRFLOW:to stop the box making overflow used this -text-overflow: initial; 
+
+OVERFLOW:overflow: scroll; Used for to make the make scroll menu and stop the text overflowing from the box 
+

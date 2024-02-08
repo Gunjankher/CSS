@@ -1,0 +1,6 @@
+WIDTH: VW Unit :-view point width unit it automatically set the size if the element on a difffent devices ,it is good for the responsive design
+VH :- Percent of the height of the view width point.
+EM:- if it is 1 then it will take the size of predefined size in the above element . if it is more then the 1 then it will take the like (if it is 1.5 then it will take 1.5 times of the defined size watch vid 22 if not understood)
+REM: The Number of times of the root element
+
+MARGIN AUTO :- It is used for the to give the automatic margin to the element ,it will give both left and right same margin and center the div it only work on block level element not the inline level elements.

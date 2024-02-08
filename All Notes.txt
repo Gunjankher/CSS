@@ -1,0 +1,140 @@
+BORDER BOX:- if size of box is 200 px and border is not applied so the total box value will add the additional size of padding margin and border, if border box is applied total box valuewill be the 200px(including border and padding)
+
+MARGIN COLLEPSE:- if we have two box that have same margin(let say 26+25) so the result margin should be 51 but the margin result will be the 26, this concept is called margin collapse if two box have margin overlapsed, the greater  margin will be counted and lesser will be neglected.(if not understand watch codewithharry vid 18) 
+
+FONT FAMILY :- it is used to change the font of the text you can use the google fonts also for this and it is recomanded to use one or two common fonts to use in font family to avoid complications
+
+FONT STYLE :- to style your font like ,italic etc (not bold) ,
+FONT WEIGHT:- to make your font bold 
+TEXT DECORATION : to undereline (text-decoration: underline dotted;) 
+LINE HEIGHT :- TO give the space beetwen two lines can set to (1,2,3,4,5,6)
+LETTER SPECEING :-To give a space between the letters 
+TEXT TRANSFORM :- to make uppercase or lowercase text 
+TEXT DECORATION :- To decoreate the text 
+(text-decoration: underline;
+ text-decoration-color: rgb(88, 178, 178);
+text-decoration-style: wavy;)
+
+TEXT INDENT: make the text move 
+TERXT OVEWRFLOW:to stop the box making overflow used this -text-overflow: initial; 
+
+OVERFLOW:overflow: scroll; Used for to make the make scroll menu and stop the text overflowing from the box 
+
+
+
+
+
+
+WIDTH: VW Unit :-view point width unit it automatically set the size if the element on a difffent devices ,it is good for the responsive design
+VH :- Percent of the height of the view width point.
+EM:- if it is 1 then it will take the size of predefined size in the above element . if it is more then the 1 then it will take the like (if it is 1.5 then it will take 1.5 times of the defined size watch vid 22 if not understood)
+REM: The Number of times of the root element
+
+MARGIN AUTO :- It is used for the to give the automatic margin to the element ,it will give both left and right same margin and center the div it only work on block level element not the inline level elements.
+
+
+
+
+
+
+BORDER BOX:- if size of box is 200 px and border is not applied so the total box value will add the additional size of padding margin and border, if border box is applied total box valuewill be the 200px(including border and padding)
+
+MARGIN COLLEPSE:- if we have two box that have same margin(let say 26+25) so the result margin should be 51 but the margin result will be the 26, this concept is called margin collapse if two box have margin overlapsed, the greater  margin will be counted and lesser will be neglected.(if not understand watch codewithharry vid 18) 
+
+FONT FAMILY :- it is used to change the font of the text you can use the google fonts also for this and it is recomanded to use one or two common fonts to use in font family to avoid complications
+
+FONT STYLE :- to style your font like ,italic etc (not bold) ,
+FONT WEIGHT:- to make your font bold 
+TEXT DECORATION : to undereline (text-decoration: underline dotted;) 
+LINE HEIGHT :- TO give the space beetwen two lines can set to (1,2,3,4,5,6)
+LETTER SPECEING :-To give a space between the letters 
+TEXT TRANSFORM :- to make uppercase or lowercase text 
+TEXT DECORATION :- To decoreate the text 
+(text-decoration: underline;
+ text-decoration-color: rgb(88, 178, 178);
+text-decoration-style: wavy;)
+
+TEXT INDENT: make the text move 
+TERXT OVEWRFLOW:to stop the box making overflow used this -text-overflow: initial; 
+
+OVERFLOW:overflow: scroll; Used for to make the make scroll menu and stop the text overflowing from the box 
+
+
+
+
+
+BORDER BOX:- if size of box is 200 px and border is not applied so the total box value will add the additional size of padding margin and border, if border box is applied total box valuewill be the 200px(including border and padding)
+
+MARGIN COLLEPSE:- if we have two box that have same margin(let say 26+25) so the result margin should be 51 but the margin result will be the 26, this concept is called margin collapse if two box have margin overlapsed, the greater  margin will be counted and lesser will be neglected.(if not understand watch codewithharry vid 18) 
+
+FONT FAMILY :- it is used to change the font of the text you can use the google fonts also for this and it is recomanded to use one or two common fonts to use in font family to avoid complications
+
+FONT STYLE :- to style your font like ,italic etc (not bold) ,
+FONT WEIGHT:- to make your font bold 
+TEXT DECORATION : to undereline (text-decoration: underline dotted;) 
+LINE HEIGHT :- TO give the space beetwen two lines can set to (1,2,3,4,5,6)
+LETTER SPECEING :-To give a space between the letters 
+TEXT TRANSFORM :- to make uppercase or lowercase text 
+TEXT DECORATION :- To decoreate the text 
+(text-decoration: underline;
+ text-decoration-color: rgb(88, 178, 178);
+text-decoration-style: wavy;)
+
+TEXT INDENT: make the text move 
+TERXT OVEWRFLOW:to stop the box making overflow used this -text-overflow: initial; 
+
+OVERFLOW:overflow: scroll; Used for to make the make scroll menu and stop the text overflowing from the box 
+
+
+
+
+
+
+INLINE PROPERTIES : It means they dont hold or take the whole line of the display for themselves unlike the box properties
+
+DISPLAY INLINE :It isv usesd for the to convert box elemement to the inline element
+
+INLINE BLOCK : It is used for the give the upperside of the box a margin,ususlly dont possible with the normal display inline properties 
+
+
+
+
+  box-shadow: 0px 4px 4px #455A64;
+
+text-shadow: -3px 1px 12px #daa520f5;
+
+
+
+
+
+OVERFLOW : Ii is used for the preventation for text overflow .like scroll 
+white space :nowrap . > it is used for the only give the horizontal lines to the scroll bar
+text-overflow: ellipsis; : give the .... to the text overflow
+
+overflow : x|y ; it is used for the used for overflow to move in x direction
+overflow : x ,y : it can  also be used this way 
+
+POSITION : position: relative;  , for defult it sis set to the statiac and with that you cant change their positions
+top: 3px;   used for to give margin to top . 
+z-index: 1;   it is used for to stack up the boxes for ex box 2 will behind the box 1
+
+
+
+WIDTH: VW Unit :-view point width unit it automatically set the size if the element on a difffent devices ,it is good for the responsive design
+VH :- Percent of the height of the view width point.
+EM:- if it is 1 then it will take the size of predefined size in the above element . if it is more then the 1 then it will take the like (if it is 1.5 then it will take 1.5 times of the defined size watch vid 22 if not understood)
+REM: The Number of times of the root element
+
+MARGIN AUTO :- It is used for the to give the automatic margin to the element ,it will give both left and right same margin and center the div it only work on block level element not the inline level elements.
+
+
+
+lIST STYLE :use to style the lists, you can set it to none
+LIST STYLE POSITION: normally you use the background color in the li the only text will get the background color not the list style itself so thats why it used it to give list style also the background color
+LIST STYLE IMAGE : to add image insted of the lists    
+
+
+
+
+
+
